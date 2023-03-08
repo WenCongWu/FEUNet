@@ -18,10 +18,10 @@ This is a PyTorch implementation for FEUNet image denoising.
 * [The Waterloo Exploration Database](https://ece.uwaterloo.ca/~k29ma/exploration/)
 
 ### 2.2 color image
-        python prepare_patches.py
+        python prepare_patches.py --p 50
 
 ### 2.3 grayscale image
-        python prepare_patches.py --gray
+        python prepare_patches.py --p 64 --gray
 
 **NOTES**  *--max_number_patches* can be used to set the maximum number of patches contained in the database. *--aug_times* can be used to set the number of data augmentation, we set it as 5.
 
