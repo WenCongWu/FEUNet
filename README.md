@@ -15,7 +15,7 @@ This is a PyTorch implementation for FEUNet image denoising.
 
 ### 2.1 dataset download
 
-* [The Waterloo Exploration Database}(https://ece.uwaterloo.ca/~k29ma/exploration/)
+* [The Waterloo Exploration Database](https://ece.uwaterloo.ca/~k29ma/exploration/)
 
 ### 2.2 color image
         python prepare_patches.py
@@ -106,6 +106,6 @@ python avg_rgb_test.py --input Kodak24 --noise_sigma 25 --add_noise True --no_gp
 ### 8. Other Important Notes
 
 ```
-Some codes are from ''* [An Analysis and Implementation of the FFDNet Image Denoising Method](http://www.ipol.im/pub/art/2019/231/)''
+Some codes are from * [An Analysis and Implementation of the FFDNet Image Denoising Method](http://www.ipol.im/pub/art/2019/231/)
 ```
 
