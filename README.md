@@ -105,6 +105,6 @@ python avg_rgb_test.py --input Kodak24 --noise_sigma 25 --add_noise True --no_gp
 ```
 ### 8. Other Important Notes
 
-Some codes are from * [An Analysis and Implementation of the FFDNet Image Denoising Method](http://www.ipol.im/pub/art/2019/231/)
+Some codes are from [An Analysis and Implementation of the FFDNet Image Denoising Method](http://www.ipol.im/pub/art/2019/231/)
 
 
