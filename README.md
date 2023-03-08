@@ -11,7 +11,7 @@ This is a PyTorch implementation for FEUNet image denoising.
 * [HDF5 for Python](http://www.h5py.org/)
 * [tensorboardX](https://github.com/lanpa/tensorboard-pytorch) (TensorBoard for PyTorch)
 
-### 2. data preparation
+### 2. Data Preparation
 
 ### 2.1 dataset download
 
