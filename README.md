@@ -1,6 +1,6 @@
 ### FEUNet-PyTorch
 
-This is a PyTorch implementation for FEUNet image denoising. Paper download: * [FEUNet](https://link.springer.com/article/10.1007/s11760-022-02471-1)
+This is a PyTorch implementation for FEUNet image denoising. Paper download: [FEUNet](https://link.springer.com/article/10.1007/s11760-022-02471-1)
 
 ### How to run
 
