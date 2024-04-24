@@ -95,12 +95,17 @@ python avg_rgb_test.py --input Kodak24 --noise_sigma 25 --add_noise True --no_gp
 
 ### 7. Citation
 ```
-@article{wu2023feunet,
-  title={FEUNet: a flexible and effective U-shaped network for image denoising},
-  author={Wu, Wencong and Lv, Guannan and Liao, Shicheng and Zhang, Yungang},
-  journal={Signal, Image and Video Processing},
-  pages={1--9},
-  year={2023}
+@article{Wu2023,
+  author       = {Wencong Wu and
+                  Guannan Lv and
+                  Shicheng Liao and
+                  Yungang Zhang},
+  title        = {FEUNet: a flexible and effective U-shaped network for image denoising},
+  journal      = {Signal Image Video Process.},
+  volume       = {17},
+  number       = {5},
+  pages        = {2545--2553},
+  year         = {2023}
 }
 ```
 ### 8. Other Important Notes
