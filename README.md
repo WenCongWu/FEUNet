@@ -94,6 +94,7 @@ python avg_rgb_test.py --input Kodak24 --noise_sigma 25 --add_noise True --no_gp
 ![image](https://user-images.githubusercontent.com/106000336/223599243-4129aeca-88dc-498b-8cec-845f76455c99.png)
 
 ### 7. Citation
+If you find FEUNet helpful for your research, please consider citing our work.
 ```
 @article{Wu2023,
   author       = {Wencong Wu and
@@ -108,8 +109,5 @@ python avg_rgb_test.py --input Kodak24 --noise_sigma 25 --add_noise True --no_gp
   year         = {2023}
 }
 ```
-### 8. Other Important Notes
-
-Some codes are from [An Analysis and Implementation of the FFDNet Image Denoising Method](http://www.ipol.im/pub/art/2019/231/)
 
 
